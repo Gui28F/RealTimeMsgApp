@@ -1,3 +1,6 @@
 [submodule "backend/RealTimeChatApp"]
 	path = backend/RealTimeChatApp
 	url = https://github.com/Gui28F/RealTimeChatApp.git
+[submodule "frontend/RealTimeChatFrontend"]
+	path = frontend/RealTimeChatFrontend
+	url = https://github.com/Gui28F/RealTimeChatFrontend.git
